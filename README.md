@@ -1,1 +1,1 @@
-# puzzle-cc-client
+# puzzles-client
